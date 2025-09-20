@@ -22,7 +22,13 @@
       "path": "comments/comments_[object Object].json",
       "size": 2,
       "lastUpdated": "2025-09-20T09:10:18.569Z"
+    },
+    "sites_0": {
+      "path": "sites/sites_0.json",
+      "size": 324,
+      "lastUpdated": "2025-09-20T15:24:53.552Z",
+      "count": 1
     }
   },
-  "lastUpdated": "2025-09-20T11:10:52.331Z"
+  "lastUpdated": "2025-09-20T15:24:53.552Z"
 }
