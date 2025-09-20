@@ -1,0 +1,1 @@
+{"id":"1758381891708","type":"site","data":{"title":"Test Site","description":"Test Description","url":"https://example.com","author":"testuser","createdAt":"2025-09-20T15:24:51.708Z","updatedAt":"2025-09-20T15:24:51.708Z"},"author":"testuser","createdAt":"2025-09-20T15:24:51.708Z","updatedAt":"2025-09-20T15:24:51.708Z"}
