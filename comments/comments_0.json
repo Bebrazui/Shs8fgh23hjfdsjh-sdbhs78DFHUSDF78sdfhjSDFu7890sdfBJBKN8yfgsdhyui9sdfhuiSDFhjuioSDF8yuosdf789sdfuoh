@@ -15,12 +15,20 @@
       "author": "user2",
       "createdAt": "2025-09-20T06:11:37.337Z",
       "votes": 2
+    },
+    {
+      "id": "3",
+      "postId": "1758350010344",
+      "content": "Согласен с автором, очень полезно!",
+      "author": "user3",
+      "createdAt": "2025-09-20T06:41:37.337Z",
+      "votes": 8
     }
   ],
   "metadata": {
     "type": "comments",
     "chunk": 0,
-    "count": 2,
-    "lastUpdated": "2025-09-20T07:11:41.221Z"
+    "count": 3,
+    "lastUpdated": "2025-09-20T07:11:44.228Z"
   }
 }
