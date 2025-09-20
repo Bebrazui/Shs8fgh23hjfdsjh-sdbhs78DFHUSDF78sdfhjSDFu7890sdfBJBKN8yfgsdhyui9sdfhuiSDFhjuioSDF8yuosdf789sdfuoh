@@ -1,1 +1,2 @@
 {"id":"1758365557733","type":"post","data":{"title":"sddsa","content":"asdasdasd","images":[],"tags":[],"author":"bebrazui"},"author":"bebrazui","createdAt":"2025-09-20T10:52:37.733Z","updatedAt":"2025-09-20T10:52:37.733Z"}
+{"id":"1758365584213","type":"post","data":{"title":"Тест постов аааааа","content":"ооогооо ооо","images":[],"tags":[],"author":"bebrazui"},"author":"bebrazui","createdAt":"2025-09-20T10:53:04.213Z","updatedAt":"2025-09-20T10:53:04.213Z"}
