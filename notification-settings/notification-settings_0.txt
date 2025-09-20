@@ -1,1 +1,1 @@
-{"id":"1","email":true,"push":false,"sms":false,"marketing":false,"security":true,"updates":true,"updatedAt":"2025-09-20T15:37:26.187Z"}
+{"id":"1","email":true,"push":false,"sms":false,"marketing":false,"security":true,"updates":true,"updatedAt":"2025-09-20T15:38:30.092Z"}
