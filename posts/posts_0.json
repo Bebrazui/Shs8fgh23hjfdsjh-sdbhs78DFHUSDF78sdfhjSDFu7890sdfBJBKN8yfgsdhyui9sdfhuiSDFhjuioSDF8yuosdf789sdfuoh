@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "1758350010344",
+      "type": "post",
+      "data": {
+        "title": "Test",
+        "content": "hehehe",
+        "images": [],
+        "tags": [],
+        "author": "bebrazui"
+      },
+      "author": "bebrazui",
+      "createdAt": "2025-09-20T06:33:30.344Z",
+      "updatedAt": "2025-09-20T06:33:30.344Z"
+    }
+  ],
+  "metadata": {
+    "type": "posts",
+    "chunk": 0,
+    "count": 1,
+    "lastUpdated": "2025-09-20T06:33:30.921Z"
+  }
+}
