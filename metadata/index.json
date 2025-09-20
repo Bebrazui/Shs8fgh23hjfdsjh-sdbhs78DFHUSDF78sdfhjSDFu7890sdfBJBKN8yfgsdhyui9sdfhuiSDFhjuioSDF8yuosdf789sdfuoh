@@ -37,8 +37,8 @@
     },
     "notification-settings_0": {
       "path": "notification-settings/notification-settings_0.json",
-      "size": 88,
-      "lastUpdated": "2025-09-20T15:33:48.398Z",
+      "size": 137,
+      "lastUpdated": "2025-09-20T15:37:08.026Z",
       "count": 1
     },
     "privacy-settings_0": {
@@ -54,5 +54,5 @@
       "count": 1
     }
   },
-  "lastUpdated": "2025-09-20T15:37:04.129Z"
+  "lastUpdated": "2025-09-20T15:37:08.026Z"
 }
