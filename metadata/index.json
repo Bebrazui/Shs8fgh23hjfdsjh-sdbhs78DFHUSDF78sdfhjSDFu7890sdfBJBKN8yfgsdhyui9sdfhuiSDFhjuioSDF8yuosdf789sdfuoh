@@ -2,8 +2,8 @@
   "files": {
     "posts_0": {
       "path": "posts/posts_0.json",
-      "size": 2,
-      "lastUpdated": "2025-09-20T10:47:27.039Z",
+      "size": 225,
+      "lastUpdated": "2025-09-20T10:52:39.566Z",
       "count": 1
     },
     "comments_0": {
@@ -24,5 +24,5 @@
       "lastUpdated": "2025-09-20T09:10:18.569Z"
     }
   },
-  "lastUpdated": "2025-09-20T10:47:27.039Z"
+  "lastUpdated": "2025-09-20T10:52:39.566Z"
 }
