@@ -1,0 +1,1 @@
+{"id":"1_avatar_1758382887748","type":"avatar","data":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==","userId":"1","createdAt":"2025-09-20T15:41:27.748Z"}
