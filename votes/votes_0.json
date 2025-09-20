@@ -1,38 +1,9 @@
 {
-  "items": [
-    {
-      "id": "1",
-      "postId": "1758350010344",
-      "author": "user1",
-      "type": "up",
-      "createdAt": "2025-09-20T05:11:37.337Z"
-    },
-    {
-      "id": "2",
-      "postId": "1758350010344",
-      "author": "user2",
-      "type": "up",
-      "createdAt": "2025-09-20T06:11:37.337Z"
-    },
-    {
-      "id": "3",
-      "postId": "1758350010344",
-      "author": "user3",
-      "type": "up",
-      "createdAt": "2025-09-20T06:41:37.337Z"
-    },
-    {
-      "id": "4",
-      "postId": "1758350010344",
-      "author": "user4",
-      "type": "down",
-      "createdAt": "2025-09-20T06:56:37.337Z"
-    }
-  ],
+  "items": [],
   "metadata": {
     "type": "votes",
     "chunk": 0,
-    "count": 4,
-    "lastUpdated": "2025-09-20T07:11:55.893Z"
+    "count": 0,
+    "lastUpdated": "2025-09-20T07:31:31.804Z"
   }
 }
