@@ -1,0 +1,9 @@
+[
+  {
+    "id": "1_avatar_1758388296082",
+    "type": "avatar",
+    "data": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+    "userId": "1",
+    "createdAt": "2025-09-20T17:11:36.082Z"
+  }
+]
