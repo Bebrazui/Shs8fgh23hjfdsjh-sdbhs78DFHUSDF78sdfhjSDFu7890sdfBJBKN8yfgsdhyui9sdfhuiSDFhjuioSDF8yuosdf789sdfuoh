@@ -8,9 +8,9 @@
     },
     "comments_0": {
       "path": "comments/comments_0.json",
-      "size": 535,
-      "lastUpdated": "2025-09-20T07:11:45.841Z",
-      "count": 3
+      "size": 2,
+      "lastUpdated": "2025-09-20T07:31:15.520Z",
+      "count": 0
     },
     "votes_0": {
       "path": "votes/votes_0.json",
@@ -19,5 +19,5 @@
       "count": 4
     }
   },
-  "lastUpdated": "2025-09-20T07:11:57.467Z"
+  "lastUpdated": "2025-09-20T07:31:15.520Z"
 }
