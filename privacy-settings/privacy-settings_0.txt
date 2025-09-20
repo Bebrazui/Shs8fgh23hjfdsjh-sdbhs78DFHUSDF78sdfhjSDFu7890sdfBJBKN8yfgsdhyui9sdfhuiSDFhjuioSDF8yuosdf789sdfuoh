@@ -1,1 +1,1 @@
-{"id":"1","profileVisibility":"followers","messageRequests":"followers","activityStatus":false,"showEmail":false,"showLocation":true,"allowMessages":"followers","showOnlineStatus":true,"updatedAt":"2025-09-20T15:37:09.629Z"}
+{"id":"1","profileVisibility":"public","messageRequests":"everyone","activityStatus":true,"showEmail":false,"showLocation":true,"allowMessages":"followers","showOnlineStatus":true,"updatedAt":"2025-09-20T15:37:30.314Z"}
