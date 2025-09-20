@@ -7,12 +7,20 @@
       "author": "user1",
       "createdAt": "2025-09-20T05:11:37.337Z",
       "votes": 5
+    },
+    {
+      "id": "2",
+      "postId": "1758350010344",
+      "content": "Интересно, а есть ли еще примеры?",
+      "author": "user2",
+      "createdAt": "2025-09-20T06:11:37.337Z",
+      "votes": 2
     }
   ],
   "metadata": {
     "type": "comments",
     "chunk": 0,
-    "count": 1,
-    "lastUpdated": "2025-09-20T07:11:37.783Z"
+    "count": 2,
+    "lastUpdated": "2025-09-20T07:11:41.221Z"
   }
 }
