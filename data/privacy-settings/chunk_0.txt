@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "profileVisibility": "public",
+    "messageRequests": "everyone",
+    "activityStatus": "show",
+    "showEmail": false,
+    "showLocation": false,
+    "allowMessages": true,
+    "showOnlineStatus": true,
+    "updatedAt": "2025-09-21T05:17:10.453Z"
+  }
+]
