@@ -1,16 +1,16 @@
 [
   {
-    "id": "1_avatar_1758388296082",
-    "type": "avatar",
-    "data": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
-    "userId": "1",
-    "createdAt": "2025-09-20T17:11:36.082Z"
-  },
-  {
     "id": "1_coverImage_1758388297728",
     "type": "coverImage",
     "data": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
     "userId": "1",
     "createdAt": "2025-09-20T17:11:37.728Z"
+  },
+  {
+    "id": "1_avatar_1758431834160",
+    "type": "avatar",
+    "data": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+    "userId": "1",
+    "createdAt": "2025-09-21T05:17:14.160Z"
   }
 ]
