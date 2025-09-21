@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "email": true,
+    "push": true,
+    "sms": false,
+    "marketing": false,
+    "security": true,
+    "updates": true,
+    "updatedAt": "2025-09-21T06:53:06.601Z"
+  }
+]
